@@ -11,6 +11,7 @@ public class demo01 {
         String parentPath="d:\\a";
         String childPath="hello.txt";
         File file1=new File(parentPath,childPath);
+//hhhhhh
 
         File file2=new File("D:\\a");
         String childPath1="hello.txt";
